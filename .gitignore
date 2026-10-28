@@ -9,11 +9,6 @@ env/
 
 .streamlit/
 
-models/*.pkl
-models/*.csv
-
-data/climate_skin_data.csv
-
 .env
 
 .vscode/
